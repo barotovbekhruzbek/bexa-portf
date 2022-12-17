@@ -668,3 +668,12 @@ section {
   transform: translateY(0);
   opacity: 1;
 }
+footer div a {
+  text-decoration: none;
+  color: white;
+}
+footer img {
+  width:200px;
+  height: 200px;
+ 
+}
